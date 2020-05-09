@@ -16,4 +16,5 @@
 
 `1.谁来负责标记抢占? sysmon 启动一个新线程。检查标记.
  sysmon函数是Go runtime启动时创建的，负责监控所有goroutine的状态，判断是否需要GC，进行netpoll等操作。sysmon函数中会调用retake函数进行抢占式调度
+ 1.14前不具备抢占死循环的gr. 比如 go func(){ for{} }.
 `
