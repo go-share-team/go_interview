@@ -1,11 +1,5 @@
 # go share
-
-[![License][License-Image]][License-URL]
-[![CircleCI Status][CircleCI-Image]][CircleCI-URL]
-[![Coverage Report][Coverage-Image]][Coverage-URL]
-[![Go Report Card][GoReportCard-Image]][GoReportCard-URL]
-[![CII Best Practices][CII-Image]][CII-URL]
-[![GoDoc][GoDoc-Image]][GoDoc-URL]
+test
 
 # go_interview
 总结诸多公司go/php  debug经验分享
