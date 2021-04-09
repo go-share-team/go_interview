@@ -1,7 +1,7 @@
 
-[![stars](https://img.shields.io/github/stars/xiaowei520/go_interview?color=42b883&logo=github&style=flat-square)](https://github.com/xiaowei520/go_interview/stargazers)
-[![forks](https://img.shields.io/github/forks/xiaowei520/go_interview?color=42b883&logo=github&style=flat-square)](https://github.com/xiaowei520/go_interview/network/members)
-[![license](https://img.shields.io/github/xiaowei520/go_interview?color=42b883&style=flat-square)](./LICENSE)
+[![stars](https://img.shields.io/github/stars/xiaowei520/go_interview?color=4169E1&logo=github&style=flat-square)](https://github.com/xiaowei520/go_interview/stargazers)
+[![forks](https://img.shields.io/github/forks/xiaowei520/go_interview?color=4169E1&logo=github&style=flat-square)](https://github.com/xiaowei520/go_interview/network/members)
+[![license](https://img.shields.io/github/license/xiaowei520/go_interview?color=4169E1&style=flat-square)](./LICENSE)
 
 # 大厂面经
 
@@ -19,7 +19,7 @@
 
 ## 如何加入我们 ?
 
-可以通过 issue 分享你的面经。我们也有专门的微信群，里面有一大群一些大厂的开发，手把手现场教学。可以添加公众号：forever_hhf，拉你入群。
+可以通过 issue 分享你的面经。我们也有专门的微信群，里面有一大群一些大厂的开发，手把手现场教学。可以添加微信：forever_hhf，拉你入群，备注：面试
 
 ## 公众号
 
