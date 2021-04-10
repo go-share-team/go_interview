@@ -24,8 +24,16 @@
 
 ## 面经
 
-[京东](https://github.com/georgehao/go_interview/tree/master/%E9%9D%A2%E7%BB%8F/%E4%BA%AC%E4%B8%9C)
-[阿里]()
+* [京东](https://github.com/go-share-team/go_interview/tree/master/%E9%9D%A2%E7%BB%8F/%E4%BA%AC%E4%B8%9C)
+* [阿里](https://github.com/go-share-team/go_interview/tree/master/%E9%9D%A2%E7%BB%8F/%E9%98%BF%E9%87%8C)
+* [作业帮](https://github.com/go-share-team/go_interview/tree/master/%E9%9D%A2%E7%BB%8F/%E4%BD%9C%E4%B8%9A%E5%B8%AE)
+* [滴滴](https://github.com/go-share-team/go_interview/tree/master/%E9%9D%A2%E7%BB%8F/%E6%BB%B4%E6%BB%B4)
+* [腾讯](https://github.com/go-share-team/go_interview/tree/master/%E9%9D%A2%E7%BB%8F/%E8%85%BE%E8%AE%AF)
+* [美团](https://github.com/go-share-team/go_interview/tree/master/%E9%9D%A2%E7%BB%8F/%E7%BE%8E%E5%9B%A2)
+* [小米](https://github.com/go-share-team/go_interview/tree/master/%E9%9D%A2%E7%BB%8F/%E5%B0%8F%E7%B1%B3%E6%B8%B8%E6%88%8F)
+* [映客直播](https://github.com/go-share-team/go_interview/tree/master/%E9%9D%A2%E7%BB%8F/%E6%98%A0%E5%AE%A2%E7%9B%B4%E6%92%AD)
+* [游族网络](https://github.com/go-share-team/go_interview/tree/master/%E9%9D%A2%E7%BB%8F/%E6%B8%B8%E6%97%8F%E7%BD%91%E7%BB%9C)
+* [目睹直播](https://github.com/go-share-team/go_interview/tree/master/%E9%9D%A2%E7%BB%8F/%E7%9B%AE%E7%9D%B9%E7%9B%B4%E6%92%AD)
 
 ## 日常讨论
 
