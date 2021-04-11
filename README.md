@@ -34,6 +34,8 @@
 * [映客直播](https://github.com/go-share-team/go_interview/tree/master/%E9%9D%A2%E7%BB%8F/%E6%98%A0%E5%AE%A2%E7%9B%B4%E6%92%AD)
 * [游族网络](https://github.com/go-share-team/go_interview/tree/master/%E9%9D%A2%E7%BB%8F/%E6%B8%B8%E6%97%8F%E7%BD%91%E7%BB%9C)
 * [目睹直播](https://github.com/go-share-team/go_interview/tree/master/%E9%9D%A2%E7%BB%8F/%E7%9B%AE%E7%9D%B9%E7%9B%B4%E6%92%AD)
+* [字节](./面经/字节)
+* [贝壳](./面经/贝壳)
 
 ## 日常讨论
 
